@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\client\\scripts",
+    "\\client\\src",
+    "\\config",
+    "\\e2e",
+    "\\packages",
+    "\\redis-config",
+    "\\utils"
+  ],
+  "PreviewInSolutionExplorer": false
+}
